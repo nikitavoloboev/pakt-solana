@@ -18,5 +18,9 @@ anchor build
 anchor test
 ```
 
+## Notes
+
+- See [here](https://github.com/GrafMine/Capstone_Q4_Crypto_Ticket/blob/main/Solana/help-commands) for useful commands to run.
+
 <!-- TODO: how to run specific test -->
 <!-- TODO: how to have faster feedback loop in dev -->
